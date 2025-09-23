@@ -4,7 +4,6 @@ import "swiper/css/navigation";
 import "swiper/css/pagination";
 import Dashboard from "../src/pages/Dashboard.jsx";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import About from "./pages/About.jsx";
 import AboutPage from "./pages/AboutPage.jsx";
 import ArticlePage from "./pages/ArticlePage.jsx";
 import ProductPage from "./pages/ProductPage.jsx";
