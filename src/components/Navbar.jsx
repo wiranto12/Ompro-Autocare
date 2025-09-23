@@ -30,9 +30,9 @@ const Navbar = () => {
           </button>
           <div className="hidden lg:flex flex-row justify-end space-x-16 font-medium text-sm ">
             <a href="/">Produk Kami</a>
-            <a href="/">Tentang Kami</a>
-            <a href="/">E-Commers</a>
-            <a href="/">Artikel</a>
+            <a href="/product">Produk Kami</a>
+            <a href="/article">Artikel</a>
+            <a href="/about">Tentang Kami</a>
           </div>
         </div>
       </div>
